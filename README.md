@@ -2,7 +2,7 @@
   <h1>
     TAP MAS: Translation and Proofreading System for Hong Kong Legal Judgments
   </h1>
-  <img src="path/to/your/cute-vector.png" alt="Cute Vector" style="width: 100px; height: auto;">
+  <h2>🌟✨</h2> <!-- Cute vector or emoji -->
 </div>
 
 <div style="text-align: center;">
