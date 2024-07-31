@@ -1,9 +1,4 @@
-<div style="text-align: center;">
-  <h1>
-    TAP MAS: Translation and Proofreading System for Hong Kong Legal Judgments
-  </h1>
-  <h2>🌟✨</h2> <!-- Cute vector or emoji -->
-</div>
+# TAP MAS: Translation and Proofreading System for Hong Kong Legal Judgments
 
 <div style="text-align: center;">
   ![Figure 1](./Figure1.png)
