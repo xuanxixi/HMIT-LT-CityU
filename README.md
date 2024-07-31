@@ -1,4 +1,4 @@
-# TAP MAS: Translation and Proofreading System for Hong Kong Legal Judgments
+# TAP MAS: a Multi-Agent System for Translating and Proofreading Hong Kong Legal Judgments
 
 
 <p align="center">
