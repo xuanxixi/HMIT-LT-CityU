@@ -50,7 +50,6 @@ The performance of TAP MAS was evaluated across various configurations of the th
 <p align="center">
   <img src="./Figure4.png" alt="Figure 4" style="display: block; margin: 0 auto;" />
   <br />
-  <em>Table 1: Performance of TAP MAS with different configurations of the three agents (T: Translator, A: Annotator, P: Proofreader; X: not used).</em>
 </p>
 
 ### 5.2 Human Evaluation
@@ -66,10 +65,12 @@ The results of human evaluation for three representative MT systems are summariz
 <p align="center">
   <img src="./Figure5.png" alt="Figure 5" style="display: block; margin: 0 auto;" />
   <br />
-  <em>Table 2: Results of human evaluation for three representative MT systems, based on accuracy (A), coherence (C), and style (S).</em>
 </p>
 
 ## 6. Publication
 
-The paper will be published in the **Conference Proceeding of 'Hong Kong Bilingual Legal System: Retrospect and Prospect'**, at the University of Hong Kong in 2025. 
+This paper is a result of project research, funded by the Hong Kong Research Grants Council. It was presented at the [CCPL Conference](https://www.law.hku.hk/events/conference-on-hong-kong-bilingual-legal-system-retrospect-and-prospect-day-1/) of the Faculty of Law, University of Hong Kong, in August 2023.
+
+The paper will be published in the **Conference Proceeding of 'Hong Kong Bilingual Legal System: Retrospect and Prospect'** (Best Paper Award), at the University of Hong Kong in 2025.
+
 (Authors: Prof. King Kui SIN, Xi Xuan, Prof. Chunyu Kit, Prof. Clara Ho-yan Chan, Prof. Honic Ho-kin Ip)
