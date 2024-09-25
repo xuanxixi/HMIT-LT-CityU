@@ -41,6 +41,8 @@ TAP MAS consists of three agents, and their LLM response parameters are configur
 - Frequency Penalty: 0
 - Presence Penalty: 0
 
+Please refer to my paper for details.
+
 ## 5. Experimental Results
 
 ### 5.1 Automatic Evaluation
@@ -69,7 +71,7 @@ The results of human evaluation for three representative MT systems are summariz
 
 ## 6. Publication
 
-This paper is a result of project research, funded by the Hong Kong Research Grants Council. It was presented at the [CCPL Conference](https://www.law.hku.hk/events/conference-on-hong-kong-bilingual-legal-system-retrospect-and-prospect-day-1/) of the Faculty of Law, University of Hong Kong, in August 2023.
+This paper is a result of project research, funded by the Hong Kong Research Grants Council. It was oral presented at the [Hong Kong Bilingual Legal System: Retrospect and Prospect Conference](https://www.law.hku.hk/events/conference-on-hong-kong-bilingual-legal-system-retrospect-and-prospect-day-1/) of the Faculty of Law, University of Hong Kong, in August 2023.
 
 The paper will be published in the **Conference Proceeding of 'Hong Kong Bilingual Legal System: Retrospect and Prospect'** (Best Paper Award), at the University of Hong Kong in 2025.
 
