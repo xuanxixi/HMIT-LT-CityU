@@ -17,7 +17,7 @@ The system is scheduled for launch and will be available at [https://hmit.LT.cit
 The dataset used is the **CFA Judgement Corpus 97-22**, which is proposed for the first time in this paper. You can find the dataset at [CFA_Judgement_Corpus_97-22](https://huggingface.co/datasets/xxuan-nlp/CFA_Judgement_Corpus_97-22).
 
 <p align="center">
-  <img src="./Figure2.png" alt="Figure 2" style="display: block; margin: 0 auto;" />
+  <img src="./Figure2.png" alt="Figure 2" style="display: block; margin: 0 auto; width: 50%;" />
   <br />
   <em>Figure 2: Overview of the CFA Judgement Corpus</em>
 </p>
