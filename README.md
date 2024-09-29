@@ -17,9 +17,9 @@ The system is scheduled for launch and will be available at [https://hmit.LT.cit
 The dataset used is the **CFA Judgement Corpus 97-22**, which is proposed for the first time in this paper. You can find the dataset at [CFA_Judgement_Corpus_97-22](https://huggingface.co/datasets/xxuan-nlp/CFA_Judgement_Corpus_97-22).
 
 <p align="center">
-  <img src="./Figure2.png" alt="Figure 2" style="display: block; margin: 0 auto; width: 50%;" />
+  <img src="./Figure2.png" alt="Figure 2" style="display: block; margin: 0 auto; width: 80%;" />
   <br />
-  <em>Figure 2: Overview of the CFA Judgement Corpus</em>
+  <em>Figure 2: Judgment Format, using "HKSAR - Court of Final Appeal - Final Appeal Criminal Case No. 1 of 2021" as an example.</em>
 </p>
 
 ## 3. Prompt Engineering
